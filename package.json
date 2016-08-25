@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aaricpittman/static-site-generator/issues"
   },
-  "homepage": "https://github.com/aaricpittman/static-site-generator#readme"
+  "homepage": "https://github.com/aaricpittman/static-site-generator#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
