@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/aaricpittman/static-site-generator#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0"
   }
 }
